@@ -1,0 +1,10 @@
+identifier: myboard/nrf54l15/cpuapp
+name: My board
+type: mcu
+arch: arm
+toolchain:
+  - zephyr
+sysbuild: true
+ram: 188
+flash: 324
+supported: []
